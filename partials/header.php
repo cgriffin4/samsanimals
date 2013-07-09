@@ -31,6 +31,6 @@
         <![endif]-->
         <?php
             if (!$SETTINGS->skipContainer) {
-                echo '<div class="container ' . $SETTINGS->pageContClass . '">';
+                echo '<div id="main" class="container ' . $SETTINGS->pageContClass . '">';
             }
         ?>

@@ -122,3 +122,6 @@
 {"ts":1373332551862,"patch":[[{"diffs":[[0,"ontClass"],[-1,";"],[0," . '\">';"]],"start1":1565,"start2":1565,"length1":17,"length2":16}]],"length":1606,"saved":false}
 {"ts":1373332556576,"patch":[[{"diffs":[[0,"iner"],[-1," == false"],[0,") {\n"]],"start1":1484,"start2":1484,"length1":17,"length2":8}]],"length":1597,"saved":false}
 {"ts":1373332558878,"patch":[[{"diffs":[[0,"    if ("],[1,"!"],[0,"$SETTING"]],"start1":1456,"start2":1456,"length1":16,"length2":17}]],"length":1598,"saved":false}
+{"contributors":[],"silentsave":true,"ts":1373335033289,"patch":[[{"diffs":[[0,"o '<div "],[1," "],[0,"class=\"c"]],"start1":1512,"start2":1512,"length1":16,"length2":17}]],"length":1599,"saved":false}
+{"ts":1373335034715,"patch":[[{"diffs":[[0,"o '<div "],[1,"id=\""],[0," class=\""]],"start1":1512,"start2":1512,"length1":16,"length2":20}]],"length":1603,"saved":false}
+{"ts":1373335037960,"patch":[[{"diffs":[[0,"div id=\""],[1,"main\""],[0," class=\""]],"start1":1516,"start2":1516,"length1":16,"length2":21}]],"length":1608,"saved":false}
