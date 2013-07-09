@@ -13,7 +13,9 @@
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
         <link rel="stylesheet" href="css/normalize.css">
+        <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet">
         <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/site.css">
         
         <?php
         foreach ($SETTINGS->pageCSS as $page) {
@@ -27,3 +29,8 @@
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
+        <?php
+            if (!$SETTINGS->skipContainer) {
+                echo '<div class="container ' . $SETTINGS->pageContClass . '">';
+            }
+        ?>

@@ -59,3 +59,66 @@
 {"ts":1373323732054,"patch":[[{"diffs":[[0,"    ?>\n        \n"],[1,"        \n"],[0,"        <script "]],"start1":926,"start2":926,"length1":32,"length2":41}]],"length":1027,"saved":false}
 {"ts":1373323734126,"patch":[[{"diffs":[[0,"       \n"],[-1,"        \n"],[0,"        "]],"start1":934,"start2":934,"length1":25,"length2":16}]],"length":1018,"saved":false}
 {"ts":1373323930773,"patch":[[{"diffs":[[0,"\n    </head>"],[1,"\n    <body>\n        <!--[if lt IE 7]>\n            <p class=\"browsehappy\">You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/\">upgrade your browser</a> to improve your experience.</p>\n        <![endif]-->"]],"start1":1006,"start2":1006,"length1":12,"length2":255}]],"length":1261,"saved":false}
+{"contributors":[],"silentsave":true,"ts":1373326679084,"patch":[[{"diffs":[[0,"alize.css\">\n"],[1,"        <link href=\"//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css\" rel=\"stylesheet\">\n"],[0,"        <lin"]],"start1":704,"start2":704,"length1":24,"length2":144}]],"length":1381,"saved":false}
+{"contributors":[],"silentsave":true,"ts":1373331039586,"patch":[[{"diffs":[[0,"/main.css\">\n"],[1,"        <link rel=\"stylesheet\" href=\"css/main.css\">\n"],[0,"        \n   "]],"start1":876,"start2":876,"length1":24,"length2":76}]],"length":1433,"saved":false}
+{"ts":1373331041155,"patch":[[{"diffs":[[0,"heet\" href=\"css/"],[-1,"main"],[1,"s"],[0,".css\">\n        \n"]],"start1":913,"start2":913,"length1":36,"length2":33}]],"length":1430,"saved":false}
+{"ts":1373331042177,"patch":[[{"diffs":[[0,"f=\"css/s"],[1,"ite"],[0,".css\">\n "]],"start1":922,"start2":922,"length1":16,"length2":19}]],"length":1433,"saved":false}
+{"ts":1373331270473,"patch":[[{"diffs":[[0,"        <![endif]-->"],[1,"\n        "]],"start1":1413,"start2":1413,"length1":20,"length2":29}]],"length":1442,"saved":false}
+{"ts":1373331273131,"patch":[[{"diffs":[[0,"dif]-->\n        "],[1,"Mdi"]],"start1":1426,"start2":1426,"length1":16,"length2":19}]],"length":1445,"saved":false}
+{"ts":1373331274831,"patch":[[{"diffs":[[0,"    "],[-1,"Mdi"]],"start1":1438,"start2":1438,"length1":7,"length2":4}]],"length":1442,"saved":false}
+{"ts":1373331276439,"patch":[[{"diffs":[[0,"dif]-->\n        "],[1,"<div "]],"start1":1426,"start2":1426,"length1":16,"length2":21}]],"length":1447,"saved":false}
+{"ts":1373331278927,"patch":[[{"diffs":[[0,"   <div "],[1,"class=\"c\""]],"start1":1439,"start2":1439,"length1":8,"length2":17}]],"length":1456,"saved":false}
+{"ts":1373331281965,"patch":[[{"diffs":[[0,"class=\"c"],[-1,"\""],[1,"ontainer\">"]],"start1":1447,"start2":1447,"length1":9,"length2":18}]],"length":1465,"saved":false}
+{"contributors":[],"silentsave":true,"ts":1373331559797,"patch":[[{"diffs":[[0,"ontainer"],[1," "],[0,"\">"]],"start1":1455,"start2":1455,"length1":10,"length2":11}]],"length":1466,"saved":false}
+{"ts":1373331560841,"patch":[[{"diffs":[[0,"ntainer "],[1,"<"],[0,"\">"]],"start1":1456,"start2":1456,"length1":10,"length2":11}]],"length":1467,"saved":false}
+{"ts":1373331562815,"patch":[[{"diffs":[[0,"tainer <"],[1,">"],[0,"\">"]],"start1":1457,"start2":1457,"length1":10,"length2":11}]],"length":1468,"saved":false}
+{"ts":1373331565166,"patch":[[{"diffs":[[0,"tainer <"],[1,"?"],[0,">\">"]],"start1":1457,"start2":1457,"length1":11,"length2":12}]],"length":1469,"saved":false}
+{"ts":1373331567117,"patch":[[{"diffs":[[0,"ainer <?"],[1,"ph?"],[0,">\">"]],"start1":1458,"start2":1458,"length1":11,"length2":14}]],"length":1472,"saved":false}
+{"ts":1373331567981,"patch":[[{"diffs":[[0,"ner <?ph"],[1,"p"],[0,"?>\">"]],"start1":1460,"start2":1460,"length1":12,"length2":13}]],"length":1473,"saved":false}
+{"ts":1373331571142,"patch":[[{"diffs":[[0,"er <?php"],[1,"echo"],[0,"?>\">"]],"start1":1461,"start2":1461,"length1":12,"length2":16}]],"length":1477,"saved":false}
+{"ts":1373331572904,"patch":[[{"diffs":[[0,"?phpecho"],[1," $SETTINGS->pageContClass"],[0,"?>\">"]],"start1":1465,"start2":1465,"length1":12,"length2":37}]],"length":1502,"saved":false}
+{"ts":1373331573685,"patch":[[{"diffs":[[0,"ontClass"],[1,";"],[0,"?>\">"]],"start1":1490,"start2":1490,"length1":12,"length2":13}]],"length":1503,"saved":false}
+{"contributors":[],"silentsave":true,"ts":1373332328322,"patch":[[{"diffs":[[0,"![endif]-->\n"],[1,"        \n"],[0,"        <div"]],"start1":1422,"start2":1422,"length1":24,"length2":33}]],"length":1512,"saved":false}
+{"ts":1373332330900,"patch":[[{"diffs":[[0,"dif]-->\n        "],[1,">"],[0,"\n        <div cl"]],"start1":1426,"start2":1426,"length1":32,"length2":33}]],"length":1513,"saved":false}
+{"ts":1373332331732,"patch":[[{"diffs":[[0,"        "],[-1,">"],[1,"<"],[0,"\n       "]],"start1":1434,"start2":1434,"length1":17,"length2":17}]],"length":1513,"saved":false}
+{"ts":1373332332288,"patch":[[{"diffs":[[0,"       <"],[1,"/"],[0,"\n       "]],"start1":1435,"start2":1435,"length1":16,"length2":17}]],"length":1514,"saved":false}
+{"ts":1373332333842,"patch":[[{"diffs":[[0,"       <"],[-1,"/"],[1,"?"],[0,"\n       "]],"start1":1435,"start2":1435,"length1":17,"length2":17}]],"length":1514,"saved":false}
+{"ts":1373332334306,"patch":[[{"diffs":[[0,"      <?"],[1,"P"],[0,"\n       "]],"start1":1436,"start2":1436,"length1":16,"length2":17}]],"length":1515,"saved":false}
+{"ts":1373332335850,"patch":[[{"diffs":[[0,"      <?"],[-1,"P"],[0,"\n       "]],"start1":1436,"start2":1436,"length1":17,"length2":16}]],"length":1514,"saved":false}
+{"ts":1373332336931,"patch":[[{"diffs":[[0,"      <?"],[1,"php\n        "],[0,"\n       "]],"start1":1436,"start2":1436,"length1":16,"length2":28}]],"length":1526,"saved":false}
+{"ts":1373332338473,"patch":[[{"diffs":[[0," <?php\n        \n"],[1,"        ?>\n"],[0,"        <div cla"]],"start1":1441,"start2":1441,"length1":32,"length2":43}]],"length":1537,"saved":false}
+{"ts":1373332339427,"patch":[[{"diffs":[[0,"  <?php\n        "],[1,"    if"],[0,"\n        ?>\n    "]],"start1":1440,"start2":1440,"length1":32,"length2":38}]],"length":1543,"saved":false}
+{"ts":1373332340457,"patch":[[{"diffs":[[0,"      if"],[1," ()"],[0,"\n       "]],"start1":1454,"start2":1454,"length1":16,"length2":19}]],"length":1546,"saved":false}
+{"ts":1373332346289,"patch":[[{"diffs":[[0,"    if ("],[1,"$S"],[0,")\n      "]],"start1":1456,"start2":1456,"length1":16,"length2":18}]],"length":1548,"saved":false}
+{"ts":1373332348079,"patch":[[{"diffs":[[0,"  if ($S"],[1,"ETTINGS-"],[0,")\n      "]],"start1":1458,"start2":1458,"length1":16,"length2":24}]],"length":1556,"saved":false}
+{"ts":1373332349041,"patch":[[{"diffs":[[0,"ETTINGS-"],[1,">"],[0,")\n      "]],"start1":1466,"start2":1466,"length1":16,"length2":17}]],"length":1557,"saved":false}
+{"ts":1373332365820,"patch":[[{"diffs":[[0,"TTINGS->"],[1,"skipContainer"],[0,")\n      "]],"start1":1467,"start2":1467,"length1":16,"length2":29}]],"length":1570,"saved":false}
+{"ts":1373332367924,"patch":[[{"diffs":[[0,"    if ("],[1,"!"],[0,"$SETTING"]],"start1":1456,"start2":1456,"length1":16,"length2":17}]],"length":1571,"saved":false}
+{"ts":1373332372628,"patch":[[{"diffs":[[0,"tainer)\n"],[1,"            \n"],[0,"        "]],"start1":1483,"start2":1483,"length1":16,"length2":29}]],"length":1584,"saved":false}
+{"ts":1373332374765,"patch":[[{"diffs":[[0,"er)\n            "],[1,"{\n                e\n            }"],[0,"\n        ?>\n    "]],"start1":1487,"start2":1487,"length1":32,"length2":65}]],"length":1617,"saved":false}
+{"ts":1373332375841,"patch":[[{"diffs":[[0,"       e"],[1,"cho"],[0,"\n       "]],"start1":1514,"start2":1514,"length1":16,"length2":19}]],"length":1620,"saved":false}
+{"ts":1373332377394,"patch":[[{"diffs":[[0,"    echo"],[1," ''"],[0,"\n       "]],"start1":1517,"start2":1517,"length1":16,"length2":19}]],"length":1623,"saved":false}
+{"ts":1373332384923,"patch":[[{"diffs":[[0,"  echo '"],[1,"<div class=\"container"],[0,"'\n      "]],"start1":1519,"start2":1519,"length1":16,"length2":37}]],"length":1644,"saved":false}
+{"ts":1373332386215,"patch":[[{"diffs":[[0,"ontainer"],[1," "],[0,"'\n      "]],"start1":1540,"start2":1540,"length1":16,"length2":17}]],"length":1645,"saved":false}
+{"ts":1373332387652,"patch":[[{"diffs":[[0,"tainer '"],[1," . "],[0,"\n       "]],"start1":1542,"start2":1542,"length1":16,"length2":19}]],"length":1648,"saved":false}
+{"ts":1373332394388,"patch":[[{"diffs":[[0,"ner ' . "],[1,"$SETTINGS->pageContClass; ."],[0,"\n       "]],"start1":1545,"start2":1545,"length1":16,"length2":43}]],"length":1675,"saved":false}
+{"ts":1373332395219,"patch":[[{"diffs":[[0,"Class; ."],[1," "],[0,"\n       "]],"start1":1572,"start2":1572,"length1":16,"length2":17}]],"length":1676,"saved":false}
+{"ts":1373332396355,"patch":[[{"diffs":[[0,"lass; . "],[1,"''"],[0,"\n       "]],"start1":1573,"start2":1573,"length1":16,"length2":18}]],"length":1678,"saved":false}
+{"ts":1373332398087,"patch":[[{"diffs":[[0,"ass; . '"],[1,"\""],[0,"'\n      "]],"start1":1574,"start2":1574,"length1":16,"length2":17}]],"length":1679,"saved":false}
+{"ts":1373332399694,"patch":[[{"diffs":[[0,"ss; . '\""],[1,">"],[0,"'\n      "]],"start1":1575,"start2":1575,"length1":16,"length2":17}]],"length":1680,"saved":false}
+{"ts":1373332403581,"patch":[[{"diffs":[[0,"; . '\">'"],[1,";"],[0,"\n       "]],"start1":1577,"start2":1577,"length1":16,"length2":17}]],"length":1681,"saved":false}
+{"ts":1373332405619,"patch":[[{"diffs":[[0,"  ?>"],[-1,"\n        <div class=\"container <?phpecho $SETTINGS->pageContClass;?>\">"]],"start1":1607,"start2":1607,"length1":74,"length2":4}]],"length":1611,"saved":false}
+{"ts":1373332433873,"patch":[[{"diffs":[[0,"ontainer"],[1," == t"],[0,")\n      "]],"start1":1481,"start2":1481,"length1":16,"length2":21}]],"length":1616,"saved":false}
+{"ts":1373332434955,"patch":[[{"diffs":[[0,"ner == t"],[1,"rue"],[0,")\n      "]],"start1":1486,"start2":1486,"length1":16,"length2":19}]],"length":1619,"saved":false}
+{"ts":1373332436731,"patch":[[{"diffs":[[0," == "],[-1,"true"],[0,")\n  "]],"start1":1489,"start2":1489,"length1":12,"length2":8}]],"length":1615,"saved":false}
+{"ts":1373332440568,"patch":[[{"diffs":[[0,"    if ("],[-1,"!"],[0,"$SETTING"]],"start1":1456,"start2":1456,"length1":17,"length2":16}]],"length":1614,"saved":false}
+{"ts":1373332442761,"patch":[[{"diffs":[[0,"iner == "],[1,"false"],[0,")\n      "]],"start1":1484,"start2":1484,"length1":16,"length2":21}]],"length":1619,"saved":false}
+{"ts":1373332490804,"patch":[[{"diffs":[[0,"= false)"],[-1,"\n           "],[0," {\n     "]],"start1":1490,"start2":1490,"length1":28,"length2":16}]],"length":1607,"saved":false}
+{"ts":1373332504089,"patch":[[{"diffs":[[0,"php\n"],[-1,"            if ($SETTINGS->skipContainer == false) {\n    "],[0,"    "]],"start1":1444,"start2":1444,"length1":65,"length2":8}]],"length":1550,"saved":false}
+{"ts":1373332506094,"patch":[[{"diffs":[[0,">';\n"],[-1,"            }\n"],[0,"    "]],"start1":1522,"start2":1522,"length1":22,"length2":8}]],"length":1536,"saved":false}
+{"ts":1373332534219,"patch":[[{"diffs":[[0,"    "],[-1,"<?php\n            echo '<div class=\"container ' . $SETTINGS->pageContClass; . '\">';\n        ?>"]],"start1":1438,"start2":1438,"length1":98,"length2":4}]],"length":1442,"saved":false}
+{"ts":1373332535666,"patch":[[{"diffs":[[0,"dif]-->\n        "],[1,"<?php\n            echo '<div class=\"container ' . $SETTINGS->pageContClass; . '\">';\n        ?>"]],"start1":1426,"start2":1426,"length1":16,"length2":110}]],"length":1536,"saved":false}
+{"ts":1373332548501,"patch":[[{"diffs":[[0,">\n        <?php\n"],[1,"            if ($SETTINGS->skipContainer == false) {\n    "],[0,"            echo"]],"start1":1432,"start2":1432,"length1":32,"length2":89},{"diffs":[[0,"ss; . '\">';\n"],[1,"            }\n"],[0,"        ?>"]],"start1":1571,"start2":1571,"length1":22,"length2":36}]],"length":1607,"saved":false}
+{"ts":1373332551862,"patch":[[{"diffs":[[0,"ontClass"],[-1,";"],[0," . '\">';"]],"start1":1565,"start2":1565,"length1":17,"length2":16}]],"length":1606,"saved":false}
+{"ts":1373332556576,"patch":[[{"diffs":[[0,"iner"],[-1," == false"],[0,") {\n"]],"start1":1484,"start2":1484,"length1":17,"length2":8}]],"length":1597,"saved":false}
+{"ts":1373332558878,"patch":[[{"diffs":[[0,"    if ("],[1,"!"],[0,"$SETTING"]],"start1":1456,"start2":1456,"length1":16,"length2":17}]],"length":1598,"saved":false}
